@@ -1,0 +1,21 @@
+.box{
+    border-style: solid;
+    border-color: red;
+    border-width: 100px;
+    height: 650px;
+    width: 900px;
+    padding: 50px;
+    margin: 250px;
+}
+.heading{
+    border-style: solid;
+    border-color: blue;
+    border-width: 40px;
+
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 50px;
+    width: 600px;
+    
+}
